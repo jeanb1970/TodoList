@@ -3,9 +3,9 @@
     "title": "Bienvenue dans votre TodoList épurée",
     "description": "Prenez un instant pour vous organiser dans le calme et la simplicité.",
     "priority": "low",
-    "due_date": null,
+    "due_date": "2026-09-01",
     "id": "ccba90d1-f0d0-4f10-a47e-04f52164e86a",
-    "completed": false,
+    "completed": true,
     "created_at": "2026-09-02T12:35:38.700746+00:00"
   },
   {
@@ -25,5 +25,14 @@
     "id": "e2b22b2a-0a0e-4311-acf4-0dd3587a7cd8",
     "completed": false,
     "created_at": "2026-09-02T12:39:56.829139+00:00"
+  },
+  {
+    "title": "faire les courses au Colruyt",
+    "description": "farine beurre sucre...",
+    "priority": "medium",
+    "due_date": "2026-09-03",
+    "id": "c4451c21-a99d-4bcc-84f1-5c6222f30a04",
+    "completed": false,
+    "created_at": "2026-09-02T12:58:24.819796+00:00"
   }
 ]
