@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Bienvenue dans votre TodoList épurée",
+    "description": "Prenez un instant pour vous organiser dans le calme et la simplicité.",
+    "priority": "low",
+    "due_date": null,
+    "id": "ccba90d1-f0d0-4f10-a47e-04f52164e86a",
+    "completed": false,
+    "created_at": "2026-09-02T12:35:38.700746+00:00"
+  },
+  {
+    "title": "Planifier les priorités de la journée",
+    "description": "Sélectionnez les tâches essentielles à accomplir en premier.",
+    "priority": "high",
+    "due_date": "2026-09-02",
+    "id": "48b62911-c0c4-45a0-9095-e896dc4f5d0f",
+    "completed": false,
+    "created_at": "2026-09-02T12:35:38.700813+00:00"
+  },
+  {
+    "title": "me brosser les dents",
+    "description": "avoir le dentifrice et la brosse prêts",
+    "priority": "medium",
+    "due_date": "2026-09-02",
+    "id": "e2b22b2a-0a0e-4311-acf4-0dd3587a7cd8",
+    "completed": false,
+    "created_at": "2026-09-02T12:39:56.829139+00:00"
+  }
+]
